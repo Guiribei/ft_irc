@@ -7,7 +7,6 @@
 	<img src="https://github.com/guiribei/guiribei/blob/main/42_badges/ft_ircn.png" />
 </p>
 
-<h1>WIP</h1>
 </div>
 
 ## Summary
